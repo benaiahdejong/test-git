@@ -1,6 +1,2 @@
 # test_git
-# test-git
-# test-git
-# test-git
-# test-git
-# test-git
+just testing with Git and github
